@@ -7,9 +7,6 @@
 - 🌱 I’m currently learning deepening knowledge in Data Science / Data Analytics, Machine Learning (appround my knowledge), development of dashboards in Power BI, english for business...
 - 📫 How to reach me https://www.linkedin.com/in/felipesant-ana/...
 
-
-
-
 What have i already developed?
     * I developed a process that analyzes of values received in bank. This project, gave midday "free" daily for two people in financial team. 
     What did i do?
