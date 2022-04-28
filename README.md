@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Felipe de Sousa and i'm 24 years old. I'am is a extroverted people and animate. I lovely games, a casual player of Counter Strike and also fanatic of computer world! I ever quest learn!
+- 👋 Hi, I’am Felipe de Sousa and i'm 24 years old. I'am is a extroverted people and animate. I lovely games, a casual player of Counter Strike and also fanatic of computer world! I ever quest learn!
 
 - 👀 What do I do?
       Currently I'm a data analyst at Marsh & McLennan Companies.
